@@ -1,15 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "21.017028": "true", "105.831206": "true","":"true" }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "users":
     [
       {
@@ -46,8 +35,8 @@
           "city": "Wisokyburgh",
           "zipcode": "90566-7771",
           "geo": {
-            "lat": "",
-            "lng": ""
+            "lat": "105.831206",
+            "lng": "21.017028"
           }
         },
         "phone": "010-692-6593 x09125",
