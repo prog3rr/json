@@ -2,8 +2,8 @@
   "users":
     [
       {
-        "username": "admin",
-        "password": "admin",
+        "username": "",
+        "password": "",
         "brand": "Xiaomi",
         "model": "Mi A1",
         "release": "8.0.0",
