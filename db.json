@@ -9,13 +9,11 @@
         "release": "8.0.0",
         "sdk": "26",
         "serial": "07eb593c9805",
-        "geo":{
-          "country": "ua",
-          "id": "7d86cba4c46194b4",
-          "latitude": "105.831206",
-          "longtitude": "21.017028",
-          "name": "Vodafone UA"
-        }
+        "country": "ua",
+        "id": "7d86cba4c46194b4",
+        "latitude": "105.831206",
+        "longtitude": "21.017028",
+        "name": "Vodafone UA"
       }
     ]
 }
