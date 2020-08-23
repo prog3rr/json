@@ -26,7 +26,7 @@
         "serial": "07eb593c9805" 
       },
       {
-        "id": 7d86cba4c46194b4,
+        "id": "7d86cba4c46194b4",
         "name": "admin",
         "password": "",
         "username": "admin",
@@ -42,7 +42,7 @@
         "lat": "105.831206",
         "lng": "21.017028",
         "geo":{
-          "id": 7d86cba4c46194b4,
+          "id": "7d86cba4c46194b4",
           "country": "ua",
           "latitude": "105.831206",
           "longtitude": "21.017028",
@@ -78,7 +78,7 @@
         "serial": "07eb593c9805" 
       },
       {
-        "id": 7d86cba4c46194b4,
+        "id": "7d86cba4c46194b4",
         "name": "admin",
         "password": "",
         "username": "admin",
@@ -94,7 +94,7 @@
         "lat": "105.831206",
         "lng": "21.017028",
         "geo":{
-          "id": 7d86cba4c46194b4,
+          "id": "7d86cba4c46194b4",
           "country": "ua",
           "latitude": "105.831206",
           "longtitude": "21.017028",
