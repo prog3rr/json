@@ -1,7 +1,4 @@
 {
-  "users":
-    [
-      {
         "id": 1,
         "name": "123",
         "password": "123",
@@ -50,6 +47,3 @@
           "name": "Vodafone UA"
         }
       }
-    ]
-  
-}
