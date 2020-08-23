@@ -26,8 +26,7 @@
         "serial": "07eb593c9805" 
       },
       {
-        "id": "7d86cba4c46194b4",
-        "name": "admin",
+        "id": "2",
         "password": "",
         "username": "admin",
         "brand": "Xiaomi",
@@ -42,6 +41,7 @@
         "lat": "105.831206",
         "lng": "21.017028",
         "geo":{
+          "name": "Vodafone UA",
           "id": "7d86cba4c46194b4",
           "country": "ua",
           "latitude": "105.831206",
@@ -54,8 +54,6 @@
   "geo":
     [
       {
-        "id": 1,
-        "name": "123",
         "password": "123",
         "username": "Bret",
         "email": "Sincere@april.biz",
@@ -79,7 +77,6 @@
       },
       {
         "id": "7d86cba4c46194b4",
-        "name": "admin",
         "password": "",
         "username": "admin",
         "brand": "Xiaomi",
@@ -94,6 +91,7 @@
         "lat": "105.831206",
         "lng": "21.017028",
         "geo":{
+          "name": "Vodafone UA",
           "id": "7d86cba4c46194b4",
           "country": "ua",
           "latitude": "105.831206",
