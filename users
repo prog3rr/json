@@ -39,9 +39,15 @@
         "country": "ua",
         "latitude": "105.831206",
         "longtitude": "21.017028",
-        "name": "admin",
         "lat": "105.831206",
-        "lng": "21.017028"
+        "lng": "21.017028",
+        "geo":{
+          "country": "ua",
+          "latitude": "105.831206",
+          "longtitude": "21.017028",
+          "lat": "105.831206",
+          "lng": "21.017028"
+        }
       }
     ]
   
