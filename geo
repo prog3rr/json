@@ -1,0 +1,55 @@
+{
+  "geo":
+    [
+      {
+        "id": 1,
+        "name": "123",
+        "password": "123",
+        "username": "Bret",
+        "email": "Sincere@april.biz",
+        "address": {
+          "street": "Kulas Light",
+          "suite": "Apt. 556",
+          "city": "Gwenborough",
+          "zipcode": "92998-3874",
+          "geo": {
+            "lat": "105.831206",
+            "lng": "21.017028"
+          }
+        },
+        "phone": "1-770-736-8031 x56442",
+        "brand": "LG",
+        "model": "FT9IK",
+        "realease": "8.0.0",
+        "release": "8.0.0",
+        "sdk": "26",
+        "serial": "07eb593c9805" 
+      },
+      {
+        "id": 2,
+        "name": "admin",
+        "password": "",
+        "username": "admin",
+        "brand": "Xiaomi",
+        "model": "Mi A1",
+        "realease": "8.0.0",
+        "release": "8.0.0",
+        "sdk": "26",
+        "serial": "07eb593c9805",
+        "country": "ua",
+        "latitude": "105.831206",
+        "longtitude": "21.017028",
+        "lat": "105.831206",
+        "lng": "21.017028",
+        "geo":{
+          "country": "ua",
+          "latitude": "105.831206",
+          "longtitude": "21.017028",
+          "lat": "105.831206",
+          "lng": "21.017028",
+          "name": "Vodafone UA"
+        }
+      }
+    ]
+  
+}
